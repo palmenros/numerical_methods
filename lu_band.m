@@ -47,7 +47,7 @@ for k = 1:n
 end
 
 %DEBUG
-disp(A);
+%disp(A);
 
 %% Resolvemos sistemas con la matriz calculada
 
