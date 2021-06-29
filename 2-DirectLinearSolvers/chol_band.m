@@ -2,9 +2,10 @@
 
 % Matriz ejemplo del libro:
 %A = [7 1 0 0; 1 3 2 0; 0 2 5 2; 0 0 2 3];
+%p = 2
 
 A = input("Introduce una matriz: ");
-
+p = input("Introduce el semiancho de banda: ");
 n = size(A, 1);
 
 %DEBUG
